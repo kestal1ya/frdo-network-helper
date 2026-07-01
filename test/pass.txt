@@ -1,0 +1,26 @@
+{
+    "SITES_DATA": {
+        "ФИС ФРДО": {
+            "url": "http://10.3.47.15/",
+            "hint": "<h2 style='color: #0c54a0; margin-top: 5px; font-family: Arial;'>Модуль ФИС ФРДО</h2><p style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.4;'>Сюда необходимо загружать следующие типы документов:</p><ul style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.6;'><li><b>Документ 1:</b> Документ 1</li><li><b>Документ 2:</b> Документ 2</li><li><b>Документ 3:</b> Документ 3</li></ul>"
+        },
+        "Портал СПО": {
+            "url": "http://10.3.49.15/",
+            "hint": "<h2 style='color: #0c54a0; margin-top: 5px; font-family: Arial;'>Портал СПО</h2><p style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.4;'>Список документов для обязательной загрузки:</p><ul style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.6;'><li><b>Документ 1:</b> Документ 1</li><li><b>Документ 2:</b> Документ 2</li><li><b>Документ 3:</b> Документ 3</li></ul>"
+        },
+        "ПО": {
+            "url": "http://10.3.48.30/",
+            "hint": "<h2 style='color: #0c54a0; margin-top: 5px; font-family: Arial;'>Модуль ПО</h2><p style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.4;'>Документы профессионального обучения:</p><ul style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.6;'><li><b>Документ 1:</b> Документ 1</li><li><b>Документ 2:</b> Документ 2</li><li><b>Документ 3:</b> Документ 3</li></ul>"
+        },
+        "ДПО": {
+            "url": "http://10.3.48.20/",
+            "hint": "<h2 style='color: #0c54a0; margin-top: 5px; font-family: Arial;'>Модуль ДПО</h2><p style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.4;'>Документы дополнительного проф. образования:</p><ul style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.6;'><li><b>Документ 1:</b> Документ 1</li><li><b>Документ 2:</b> Документ 2</li><li><b>Документ 3:</b> Документ 3</li></ul>"
+        },
+        "ВО": {
+            "url": "http://10.3.54.15/",
+            "hint": "<h2 style='color: #0c54a0; margin-top: 5px; font-family: Arial;'>Модуль ВО</h2><p style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.4;'>Документы высшего образования:</p><ul style='font-size: 15px; color: #000000; font-family: Arial; line-height: 1.6;'><li><b>Документ 1:</b> Документ 1</li><li><b>Документ 2:</b> Документ 2</li><li><b>Документ 3:</b> Документ 3</li></ul>"
+        }
+    },
+    "ESPD_URL": "https://espd.wifi.rt.ru/",
+    "MTU_VALUE": "1300"
+}
